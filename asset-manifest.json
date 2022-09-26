@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/starter-project/juegoelgato/static/css/main.58675df6.css",
+    "main.js": "/starter-project/juegoelgato/static/js/main.44c9bf5f.js",
+    "static/js/787.6b0bed1b.chunk.js": "/starter-project/juegoelgato/static/js/787.6b0bed1b.chunk.js",
+    "index.html": "/starter-project/juegoelgato/index.html",
+    "main.58675df6.css.map": "/starter-project/juegoelgato/static/css/main.58675df6.css.map",
+    "main.44c9bf5f.js.map": "/starter-project/juegoelgato/static/js/main.44c9bf5f.js.map",
+    "787.6b0bed1b.chunk.js.map": "/starter-project/juegoelgato/static/js/787.6b0bed1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58675df6.css",
+    "static/js/main.44c9bf5f.js"
+  ]
+}
